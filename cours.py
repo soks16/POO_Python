@@ -1,4 +1,5 @@
 class Cours:
+
     def __init__(self, nom, dateHeure, duree):
         self.nom = nom
         self.DateHeure =dateHeure
